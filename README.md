@@ -61,8 +61,7 @@ Response Example:
 
 ### 2️⃣ Clone the Repository  
 ```sh
-git clone <your-git-repo-url>
-cd currency-converter
+git clone <https://github.com/AksharaSatheesh/Currency-Converter-API>
 ```
 
 ### 3️⃣ Build and Run  
